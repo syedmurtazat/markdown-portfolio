@@ -1,1 +1,1 @@
-https://github.com/syedmurtazat/github-slideshow
+[Github Rep](https://github.com/syedmurtazat/github-slideshow)
